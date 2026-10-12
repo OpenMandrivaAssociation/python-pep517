@@ -3,7 +3,7 @@
 
 Name:           python-%{pypi_name}
 Version:        0.13.1
-Release:        1
+Release:        2
 Summary:        Wrappers to build Python packages using PEP 517 hooks
 Group:          Development/Python
 License:        None
